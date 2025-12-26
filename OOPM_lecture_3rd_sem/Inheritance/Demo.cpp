@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+// How to use constructor and destructor.
+
 class demo{
     public:
     int x;
